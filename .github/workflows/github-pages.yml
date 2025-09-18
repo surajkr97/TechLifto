@@ -3,7 +3,7 @@ name: Deploy Vite React site to GitHub Pages
 on:
   push:
     branches:
-      - master  # change to main if that is your branch
+      - master
   workflow_dispatch:
 
 jobs:
