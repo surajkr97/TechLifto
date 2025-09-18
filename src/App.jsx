@@ -4,7 +4,7 @@ import Index from "./pages/Index.jsx";
 import NotFound from "./pages/NotFound.jsx";
 
 const App = () => (
-  <BrowserRouter>
+  <BrowserRouter basename="/TechLifto">
     <Routes>
       <Route path="/" element={<Index />} />
       <Route path="*" element={<NotFound />} />
