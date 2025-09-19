@@ -15,22 +15,17 @@ const Pricing = () => {
       features: [
         "Up to 5 Pages Website",
         "WhatsApp Chat Integration", 
-        "Free Hosting Space for 1 Year",
-        "Free SSL Certificate",
         "Mobile Friendly (Responsive)",
         "Image Slider on Home Page",
         "1 Inquiry Form/Contact Form",
         "Google Address Map Integration",
-        "Free Business Webmail Email ID",
         "Social Media Link Integration",
-        "Call Button Integration",
-        "Next Year ₹2000 Hosting Renewal"
       ]
     },
     {
       name: "Business Dynamic Website",
       description: "Most popular choice for growing businesses",
-      price: "₹4,999",
+      price: "₹7,999",
       originalPrice: "₹10,000",
       popular: true,
       features: [
@@ -41,20 +36,16 @@ const Pricing = () => {
         "Free Hosting Space for 1 Year",
         "Free SSL Certificate",
         "Mobile Friendly (Responsive)",
-        "Image Slider on Home Page",
         "1 Inquiry Form/Contact Form",
-        "FTP Panel",
         "Google Address Map Integration",
         "Social Media Link Integration",
-        "Call Button Integration",
-        "Next Year ₹2000 Hosting Renewal"
       ]
     },
     {
       name: "Advanced Dynamic Website",
       description: "Complete solution for established businesses",
-      price: "₹9,999",
-      originalPrice: "₹20,000",
+      price: "₹24,999",
+      originalPrice: "₹30,000",
       popular: false,
       features: [
         "Unlimited Dynamic Pages Website",
@@ -64,24 +55,19 @@ const Pricing = () => {
         "User Friendly Admin - Easy content updates",
         "Product/Service/Gallery/Blog Modules",
         "Razorpay Payment Gateway Integration",
-        "Free SSL Certificate",
-        "Google robots.txt Sitemap Creation",
         "Search Engine Friendly URLs",
         "Free Hosting Space for 1 Year",
         "Mobile Friendly (Responsive)",
-        "Image Slider on Home Page",
         "Google Address Map Integration",
         "Free Business Webmail Email ID",
         "Social Media Link Integration",
-        "Call Button Integration",
-        "Next Year ₹2000 Hosting Renewal"
       ]
     },
     {
       name: "Shopping Website",
       description: "Complete e-commerce solution for online stores",
-      price: "₹11,999",
-      originalPrice: "₹24,000",
+      price: "₹29,999",
+      originalPrice: "₹50,000",
       popular: false,
       features: [
         "Dynamic Products & Categories",
@@ -92,9 +78,7 @@ const Pricing = () => {
         "Coupon & Reward Points",
         "Quick View & Cart",
         "Customer Account & Order History",
-        "Multi-Currency Support",
         "Order Management & Shipping",
-        "Sales Reports & Analytics",
         "Search Engine Friendly URLs",
         "Dynamic Pages (About, Policy, etc.)",
         "Admin Access for Easy Management",
@@ -103,7 +87,6 @@ const Pricing = () => {
         "Social Media Integration",
         "Premium Theme",
         "5 Sample Products Upload",
-        "Note: Hosting and Domain Not Included"
       ]
     }
   ];
