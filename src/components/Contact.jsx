@@ -74,7 +74,7 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6 text-primary" />,
       title: "Email",
-      details: ["tech4lifto@gmail.com", "surajkumar06174@gmail.com"],
+      details: ["tech4lifto@gmail.com", "contacttechlifto@gmail.com"],
     },
     {
       icon: <MessageSquare className="w-6 h-6 text-primary" />,
@@ -85,7 +85,7 @@ const Contact = () => {
       icon: <Clock className="w-6 h-6 text-primary" />,
       title: "Business Hours",
       details: [
-        "Monday - Friday: 9:00 AM - 7:00 PM",
+        "Monday - Friday: 9:00 AM - 11:00 PM",
         "Saturday: 10:00 AM - 5:00 PM",
         "Sunday: Closed",
       ],
